@@ -1,0 +1,357 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+ background-color: rgba(205, 203, 203, 0.742);
+}
+
+#entete{
+    width:1367px;
+    height: 120px;
+    background-color: white;
+    position: fixed;
+}
+
+ 
+
+ nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left:150px;
+    margin-top: -180px;
+    
+    
+
+ }
+ ul li {
+     float: right;
+     list-style: none;
+    
+ }
+ a{
+    text-decoration: none;
+    margin-left:16px;
+    margin-right:18px;
+    font-size: 24px;
+    color: rgb(16, 102, 148);
+    font-weight: bold;
+
+ }
+ a:hover{
+    color:rgb(131, 12, 12);
+ }
+ #Corps{
+    border: 3px solid rgb(244, 241, 241);
+    background-color: #ffff;
+    width: 100%;
+    height: 1715px;
+
+ }
+ #Footer{
+   height: 200px;
+   background-color: rgba(109, 150, 158, 0.725);
+   color: white;
+ }
+ .titre{
+   background-color:rgba(139, 151, 141, 0.758);
+   color: white;
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 30px;
+   font-weight: bold;
+}
+     .titre11{
+      background-color:rgba(83, 132, 136, 0.382);
+      color:black;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 25px;
+      font-weight: bold;
+      margin-top: 15px;
+      border-radius: 10px 10px 10px 10px;
+  }
+  .Pied{
+   display: inline-block;
+   width: 322px;
+}
+.lll{
+   border: 1px soli black;
+   height: 100px;
+   width: 20px;
+}
+.ku{
+ margin-left: 100px;
+ font-size: 80px;
+}
+.php{
+   border-radius: 100px;
+}
+.pizza{
+   float: left;
+   border-radius: 22px;
+}
+.ta{
+   margin-left:  755px;
+   font-size: 80px;
+   margin-top: -92px;
+   color: rgb(16, 102, 102);
+  }
+     .slaid{
+        height: 600px;
+     }
+     .CorpBh{
+      background-color:white;
+      width: 100%;
+      height: 640px;
+      border: 3px solid rgb(244, 241, 241);
+           }
+      .hautG{
+         background-color:white;
+         width:630px;
+         height: 250px;
+         margin-left:40px;
+      }
+      .hautD{
+         background-color:white;
+         width: 624px;
+      height: 250px;
+      margin-top:-250px;
+      margin-left: 699px;
+      
+      }
+      .Basg{
+         background-color: rgba(226, 225, 225, 0.667);
+         height: 320px;
+         width: 400px;
+         margin-top:45px;
+         margin-left:40px;
+         border: 5px solid rgb(244, 241, 241);
+      }
+      .Basm{
+         background-color: rgba(226, 225, 225, 0.667);
+         height: 320px;
+         width: 400px;
+         margin-top:-330px;
+         margin-left:480px;
+         border: 5px solid rgb(244, 241, 241);
+      }
+      .Basd{
+         background-color: rgba(226, 225, 225, 0.667);
+         height: 320px;
+         width: 400px;
+         margin-top:-330px;
+         margin-left:920px;
+         border: 5px solid rgb(244, 241, 241);
+      }
+      .CorpBb{
+         background-color:white;
+         width: 100%;
+         height: 465px;
+         border: 3px solid rgb(244, 241, 241);
+       }
+       .Basbg{
+               background-color: rgba(226, 225, 225, 0.08);
+               height: 320px;
+               width: 400px;
+               margin-top:40px;
+               margin-left:40px;
+               
+               
+            }
+      .Basbm{
+               background-color: rgba(226, 225, 225, 0.129);
+               height: 320px;
+               width: 400px;
+               margin-top:-320px;
+               margin-left:480px;
+               
+              
+            }
+       .Basbd{
+               background-color: rgba(226, 225, 225, 0.152);
+               height: 320px;
+               width: 400px;
+               margin-top:-320px;
+               margin-left:920px;
+               
+            }
+            .Bt{
+               font-family: 'Courier New', Courier, monospace;
+               font-size: 30px;
+               font-weight: bold;
+               margin-left:40px;
+            }
+            
+            .Bth{
+               font-family: 'Courier New', Courier, monospace;
+               font-size: 40px;
+               font-weight: bold;
+               margin-left:40px;
+               color:black;
+            }
+            .ad{
+               font-family: 'Courier New', Courier, monospace;
+               font-size: 20px;
+               font-weight: bold;
+               margin-left:40px;
+               color:rgb(135, 132, 132);
+            }
+            .lait{
+               color: rgb(50, 145, 176);
+               font-size: 30px;
+               margin-left: 50px;
+            }
+.bbg{
+   background-color:white;
+   height:240px;
+   margin-left:30px;
+   width:280px;
+   margin-inline:60px;
+}
+.slide{
+   
+   height: 800px;
+   width: 900px;
+   overflow: auto;
+}
+.plat{
+   color: rgb(7, 90, 109);
+}
+.ktk{
+   float: left;
+   border-radius: 80px;
+}
+.slideb{
+   height: 800px;
+   width:400px;
+   margin-left:940px;
+   margin-top: -800px;
+   overflow: auto;
+}
+.www{
+   border: 1px solid black;
+   height: 600px;
+   width: 800px;
+   margin-top:-1600px;
+}
+.wwwt{
+   border: 1px solid black;
+   height: 600px;
+   width: 800px;
+   margin-top:1300px;
+}
+.for{
+   color: rgb(7, 74, 115);
+}
+.GOH{
+   height: 1600px;
+   margin-left: 900px;
+   margin-top: 100px;
+   overflow: auto;
+   
+}
+.vvv{
+   border-radius: 40px;
+}
+.R{
+   color: rgb(9, 106, 133);
+   font-size: 90px;
+}
+.voc{
+   border: 1px solid black;
+   height: 500px;
+   width: 1000px;
+   margin-top: 100px;
+   margin-left: 200px;
+   background-image:url("C5.jpg");
+}
+.exp{
+   color: rgb(16, 197, 224);
+   font-size: 60px;
+   margin-top: 200px;
+   margin-left: 100px;
+   
+}
+.gal{
+   
+   height: 100px;
+   width: 100%;
+   margin-top: 40px;
+}
+.ui{
+   color:rgb(167, 38, 38);
+   font-size: 85px;
+}
+.salade{
+   height: 500px;
+   width: 1000px;
+}
+.salade1{
+   height: 1050px;
+   width: 300px;
+   margin-left: 1040px;
+   margin-top: -500px;
+}
+.gros{
+   border: 1px solid black;
+   height: 420px;
+   width: 1000px;
+   margin-top:-520px;
+   background-image: url("R\ \(1\).jpg");
+}
+.cls{
+   color: rgb(16, 197, 224);
+   font-size: 120px;
+}
+.haut1{
+background-image: url("el.jpg");
+border:  1px solid white;
+height: 500px;
+width: 100%;
+margin-top: 100px;
+}
+.haut2{
+   background-image: url("url.webp");
+   border:  1px solid white;
+   height: 500px;
+   width: 100%;
+   margin-top:50px;
+   }
+   .haut3{
+      border:  1px solid white;
+      height: 500px;
+      width: 100%;
+      margin-top: 40px;
+      background-image: url("Expert.jpg");
+      }
+   .ct{
+      color:white;
+      font-size: 50px;
+      margin-left: 300px;
+      margin-top: 200px;
+   }
+   .ct1{
+      color:rgb(45, 197, 14);
+      font-size: 80px;
+      margin-left: 300px;
+      margin-top: 200px;
+   }
+   .ct2{
+      color:rgb(45, 197, 14);
+      font-size: 80px;
+      margin-left: 300px;
+      margin-top: 200px;
+   }
+   .num{
+      color:white;
+      font-size: 50px;
+      margin-left: 500px;
+   }
+
+
+
+            
+            
+   
+ 
